@@ -1,11 +1,7 @@
 ### Hello World!! 👋
 
-I will fill the blank as soon as possible.
-
-please, wait.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on kakaogames
+- 🌱 I’m currently learning Android App Programming
 - 💬 Come to my blog: https://jheun66.github.io/
 - 📫 How to reach me: jheun5@naver.com
 - 😄 Pronouns: ...
