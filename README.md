@@ -1,7 +1,7 @@
 ### Hello World!! 👋
 
 - 🔭 I’m currently working on kakaogames
-- 🌱 I’m currently learning Android App Programming, Unity Game Programming
+- 🌱 I’m currently learning Android Programming
 - 💬 Come to my blog: https://jheun66.github.io/
 - 📫 How to reach me: jheun5@naver.com
 
